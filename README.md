@@ -2,7 +2,7 @@
 ## PROJECT (CAPSTONE)
 ### CODE ACADEMY
 ### PROGRAMMING WITH PYTHON
-### Dean Jones, Sep.15, 2018
+### Dean Jones, Jul 16, 2018 - Oct 1, 2018
 
 CAPSTONE (TO RUN) **python -i populate.py**
 - Note, some minor modifications to **populate.py** file (for ISBN number of digits) 
