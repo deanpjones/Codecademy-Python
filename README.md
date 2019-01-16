@@ -5,8 +5,8 @@
 ### Dean Jones, Jul 16, 2018 - Oct 1, 2018
 
 **------------------------------------------------------**  
-**FINAL REVIEW** 
-**"Incredible work!" 16/16** 
+**FINAL REVIEW** <br/>
+**"Incredible work! 16/16"** <br/>
 https://github.com/deanpjones/Codecademy-Python/issues/1  
 **------------------------------------------------------**
 
